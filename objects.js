@@ -2,10 +2,10 @@ var playlist = {
   'John Lennon': "imagine", 
 };
 
-function updatePlaylist(obj, key, value) {
+function updatePlaylist(playlist, artistName, songTitle) {
   
 }
 
-function removeFromPlaylist(obj, key, value) {
+function removeFromPlaylist(playlist, artistName, songTitle) {
   
 }
